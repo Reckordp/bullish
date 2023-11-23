@@ -1,0 +1,14 @@
+{
+    "name": "Bullish",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "baileys": "github:WhiskeySockets/Baileys",
+        "chalk": "^4.1.2",
+        "qrcode": "^1.5.1",
+        "qrcode-terminal": "^0.12.0"
+    }
+}
